@@ -20,7 +20,7 @@ showresult.py - Contains helper functions to visualize input images.
 
 prediction.py - Initializes the model, trains it, and performs inference on test images.
 
-Dependencies
+Dependencies.
 
 Ensure you have the following libraries installed:
 
