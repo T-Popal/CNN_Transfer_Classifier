@@ -52,7 +52,3 @@ Experiment with different architectures (ResNet50, EfficientNet, etc.).
 Implement data augmentation techniques for better generalization.
 
 Fine-tune more layers instead of freezing all convolutional layers.
-
-Author
-
-Developed by [Muhammad Taufique Popal]
